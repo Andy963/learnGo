@@ -1,7 +1,7 @@
 package main
 
 import (
-	packageAdd "example/add"
+	packageAdd "../add"
 	"fmt"
 )
 
